@@ -1,0 +1,21 @@
+
+R
+java:S2209"5Change this instance-reference to a static reference.(‘¤ß 8µë‘–ç.
+r	java:S116"VRename this field "OrderStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥µÈÄ8Ã€–ç.
+R
+java:S22095"5Change this instance-reference to a static reference.(¬¾„™8µë‘–ç.
+W
+java:S2209E"5Change this instance-reference to a static reference.(óùÃÓøÿÿÿÿ8µë‘–ç.
+b	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(ëüŸà8ÇƒĞ“ç.
+b	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(‰ÂÄŒ8ÇƒĞ“ç.
+g	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Øû³‘üÿÿÿÿ8ÇƒĞ“ç.
+R
+java:S2209B"5Change this instance-reference to a static reference.(¬¾„™8µë‘–ç.
+R
+java:S2209/"5Change this instance-reference to a static reference.(†ê»ó8µë‘–ç.
+W
+java:S2209,"5Change this instance-reference to a static reference.(è‡Œ­ÿÿÿÿÿ8µë‘–ç.
+W
+java:S2209#"5Change this instance-reference to a static reference.(£ôÇëıÿÿÿÿ8µë‘–ç.
+R
+java:S22098"5Change this instance-reference to a static reference.(‘¤ß 8µë‘–ç.
